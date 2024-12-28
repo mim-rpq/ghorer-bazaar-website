@@ -250,4 +250,17 @@ body{
 
 
 
- 
+  /* footer style ///////////////// */
+.foot{
+    display: flex;
+    justify-content: space-around;
+    font-size: 18px;
+    align-items: center;
+    padding: 10px;
+}
+
+
+
+footer{
+    background: #FC8934;
+}
